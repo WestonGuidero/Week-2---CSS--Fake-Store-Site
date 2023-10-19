@@ -1,0 +1,17 @@
+{
+	"folders": [
+		{
+			"name": "Week 1 - HTML",
+			"path": ".."
+		},
+		{
+			"name": "Week 2 - CSS",
+			"path": "../../Week 2 - CSS"
+		}
+	],
+	"settings": {
+		"github-actions.use-enterprise": false,
+		"github-actions.workflows.pinned.refresh.enabled": false,
+		"liveServer.settings.multiRootWorkspaceName": "Week 1 - HTML"
+	}
+}
